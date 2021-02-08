@@ -33,14 +33,14 @@ const paths = {
   },
   src: {
     base: './public',
-    css: 'public/css/**/*.css',
-    js: 'public/js/**/*.js',
+    css: 'css/**/*.css',
+    js: 'js/**/*.js',
     html: '**/*.html',
-    img: 'public/img/**/*.+(png|jpg|gif|svg)',
+    img: 'img/**/*.+(png|jpg|gif|svg)',
     ejs: 'views/**/*.ejs',
-    fonts: 'public/fonts/**/*.+(eot|svg|ttf|woff|woff2)',
-    vendor: 'public/vendor/**/*',
-    scss: 'public/scss/**/*.scss',
+    fonts: 'fonts/**/*.+(eot|svg|ttf|woff|woff2)',
+    vendor: 'vendor/**/*',
+    scss: 'scss/**/*.scss',
   },
 };
 
